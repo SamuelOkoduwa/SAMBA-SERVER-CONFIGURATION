@@ -1,1 +1,5 @@
-Step by Step approach to configure samba server
+***
+Step by Step Approach to configure Samba server
+---
+
+***
